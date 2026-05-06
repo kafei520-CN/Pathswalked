@@ -120,3 +120,5 @@ private static final long MAX_RESTORE_IDLE_TICKS = GAME_DAY_TICKS * 3L;
 鲁迅《故乡》：
 
 > 希望是本无所谓有，无所谓无的。这正如地上的路；其实地上本没有路，走的人多了，也便成了路。
+
+[![c0bcfc64925272880fbb8a1342dda168.png](https://free.picui.cn/free/2026/05/06/69facd2d6137d.png)](https://free.picui.cn/free/2026/05/06/69facd2d6137d.png)
