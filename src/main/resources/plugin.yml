@@ -1,0 +1,5 @@
+name: Pathswalked
+version: '1.0.0'
+main: cn.kafei.pathswalked.Pathswalked
+api-version: '1.17'
+authors: [ Kafei ]
