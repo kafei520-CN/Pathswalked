@@ -1,4 +1,4 @@
-# Pathswalked
+# Pathswalked | 路自人开
 
 > 世上本没有路，走的人多了，也便成了路。
 
